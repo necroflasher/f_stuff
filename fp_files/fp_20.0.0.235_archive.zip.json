@@ -1,0 +1,47 @@
+{
+    "files": [
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/flashplayer20_0d0_235_mac.dmg",
+            "offset": 64,
+            "size": 17016572
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/flashplayer20_0d0_235_mac_pkg.dmg",
+            "offset": 17011613,
+            "size": 16629946
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/flashplayer20_0d0_235_win.exe",
+            "offset": 33583945,
+            "size": 18872512
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/flashplayer20_0d0_235_win.msi",
+            "offset": 52034262,
+            "size": 20050944
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/uninstall_flashplayer20_0d0_235_mac.dmg",
+            "offset": 70840404,
+            "size": 277062
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228/uninstall_flashplayer20_0d0_235_win.exe",
+            "offset": 71112837,
+            "size": 1162944
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228_debug/flashplayer20_0d0_235_mac_debug.dmg",
+            "offset": 71848053,
+            "size": 16936385
+        },
+        {
+            "name": "fp_20.0.0.235_archive/20_0_d0_228_debug/flashplayer20_0d0_235_win_debug.exe",
+            "offset": 88779355,
+            "size": 18692288
+        }
+    ],
+    "modified": "Thu, 24 Dec 2015 11:58:34 GMT",
+    "size": 107050464,
+    "url": "http://web.archive.org/web/20160413055546id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_20.0.0.235_archive.zip"
+}

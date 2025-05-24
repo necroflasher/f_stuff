@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "name": "FP4_archive/flash32.exe",
+            "offset": 0,
+            "size": 275717
+        },
+        {
+            "name": "FP4_archive/flash4playerinstaller.hqx",
+            "offset": 269361,
+            "size": 411304
+        },
+        {
+            "name": "FP4_archive/readme.txt",
+            "offset": 566412,
+            "size": 2075
+        },
+        {
+            "name": "FP4_archive/SwFlash.ocx",
+            "offset": 567422,
+            "size": 294912
+        }
+    ],
+    "modified": "Fri, 11 Nov 2005 21:43:26 GMT",
+    "size": 730641,
+    "url": "http://web.archive.org/web/20130220014317id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp4_archive.zip"
+}

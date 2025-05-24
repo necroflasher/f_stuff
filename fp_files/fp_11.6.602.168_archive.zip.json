@@ -1,0 +1,72 @@
+{
+    "files": [
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168_debug/flashplayer11_6r602_168_win_sa_debug.exe",
+            "offset": 128,
+            "size": 9795952
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168_debug/flashplayer11_6r602_168_win_debug.exe",
+            "offset": 4498846,
+            "size": 16904560
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168_debug/flashplayer11_6r602_167_mac_debug.dmg",
+            "offset": 21306372,
+            "size": 17401662
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168_debug/flashplayer11_6r602_168_winax_debug.exe",
+            "offset": 38701742,
+            "size": 16282480
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168_debug/flashplayer11_6r602_167_mac_sa_debug.app.zip",
+            "offset": 54887433,
+            "size": 15711011
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/uninstall_flashplayer11_6r602_167_mac.dmg",
+            "offset": 70529448,
+            "size": 230203
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/flashplayer11_6r602_168_win.exe",
+            "offset": 70754980,
+            "size": 16472944
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/flashplayer11_6r602_168_winax.exe",
+            "offset": 87131008,
+            "size": 15845744
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/flashplayer11_6r602_167_mac.dmg",
+            "offset": 102879704,
+            "size": 16929217
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/flashplayer11_6r602_168_winax.msi",
+            "offset": 119802699,
+            "size": 16965632
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/flashplayer11_6r602_168_win.msi",
+            "offset": 135849457,
+            "size": 17597440
+        },
+        {
+            "name": "fp_11.6.602.168_archive/11_6_r602_168/uninstall_flashplayer11_6r602_168_win.exe",
+            "offset": 152527049,
+            "size": 701808
+        },
+        {
+            "name": "fp_11.6.602.168_archive/readme.txt",
+            "offset": 153129467,
+            "size": 3726
+        }
+    ],
+    "modified": "Fri, 08 Feb 2013 02:18:49 GMT",
+    "size": 153133230,
+    "url": "http://web.archive.org/web/20180109195901id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.6.602.168_archive.zip"
+}

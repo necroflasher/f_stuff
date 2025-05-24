@@ -1,0 +1,237 @@
+{
+    "files": [
+        {
+            "name": "fp7_archive/r14/Flash.ocx",
+            "offset": 46,
+            "size": 917504
+        },
+        {
+            "name": "fp7_archive/r14/fp_7.0.14_plugin_mac_osx.hqx",
+            "offset": 530255,
+            "size": 1582530
+        },
+        {
+            "name": "fp7_archive/r14/fp_7.0.14_plugin_macclassic.hqx",
+            "offset": 1460153,
+            "size": 1305179
+        },
+        {
+            "name": "fp7_archive/r14/fp_7.0.14_plugin_ns.exe",
+            "offset": 2281976,
+            "size": 658586
+        },
+        {
+            "name": "fp7_archive/r19/flashplayer7_win.exe",
+            "offset": 2888736,
+            "size": 700120
+        },
+        {
+            "name": "fp7_archive/r19/flashplayer7_winax.exe",
+            "offset": 3531069,
+            "size": 563416
+        },
+        {
+            "name": "fp7_archive/r24/flashplayer7_macosx.hqx",
+            "offset": 4060314,
+            "size": 1591643
+        },
+        {
+            "name": "fp7_archive/r24/flashplayer7_macppc.hqx",
+            "offset": 4997086,
+            "size": 1313556
+        },
+        {
+            "name": "fp7_archive/r25/install_flash_player_7_linux.tar.gz",
+            "offset": 5825648,
+            "size": 987452
+        },
+        {
+            "name": "fp7_archive/r53/install_flash_player_7_solaris_sparc_r53.tar.gz",
+            "offset": 6789365,
+            "size": 1015384
+        },
+        {
+            "name": "fp7_archive/r53/install_flash_player_7_solaris_x86_r53.tar.gz",
+            "offset": 7782113,
+            "size": 975157
+        },
+        {
+            "name": "fp7_archive/r61/flashplayer7r61_mac.hqx",
+            "offset": 8740576,
+            "size": 1005290
+        },
+        {
+            "name": "fp7_archive/r61/flashplayer7r61_win.exe",
+            "offset": 9505656,
+            "size": 705672
+        },
+        {
+            "name": "fp7_archive/r61/flashplayer7r61_winax.exe",
+            "offset": 10153178,
+            "size": 564360
+        },
+        {
+            "name": "fp7_archive/r63/flashplayer7r63_mac.hqx",
+            "offset": 10683447,
+            "size": 2389107
+        },
+        {
+            "name": "fp7_archive/r63/flashplayer7r63_win.exe",
+            "offset": 12225392,
+            "size": 719536
+        },
+        {
+            "name": "fp7_archive/r63/flashplayer7r63_winax.exe",
+            "offset": 12886807,
+            "size": 584368
+        },
+        {
+            "name": "fp7_archive/r63/install_flash_player_7_linux_r63.tar.gz",
+            "offset": 13436774,
+            "size": 1021258
+        },
+        {
+            "name": "fp7_archive/r63/install_flash_player_7_solaris_sparc_r63.tar.gz",
+            "offset": 14434760,
+            "size": 1042001
+        },
+        {
+            "name": "fp7_archive/r63/install_flash_player_7_solaris_x86_r63.tar.gz",
+            "offset": 15454750,
+            "size": 1012123
+        },
+        {
+            "name": "fp7_archive/r66/install_flash_player_7_solaris_sparc_r66.tar.gz",
+            "offset": 16450428,
+            "size": 1042264
+        },
+        {
+            "name": "fp7_archive/r66/install_flash_player_7_solaris_x86_r66.tar.gz",
+            "offset": 17470095,
+            "size": 998918
+        },
+        {
+            "name": "fp7_archive/r67/install_flash_player_7_solaris_sparc_r67.tar.gz",
+            "offset": 18452870,
+            "size": 1073094
+        },
+        {
+            "name": "fp7_archive/r67/install_flash_player_7_solaris_x86_r67.tar.gz",
+            "offset": 19503340,
+            "size": 995470
+        },
+        {
+            "name": "fp7_archive/r68/flashplayer7r68_mac.hqx",
+            "offset": 20482249,
+            "size": 2278160
+        },
+        {
+            "name": "fp7_archive/r68/flashplayer7r68_win.exe",
+            "offset": 22010985,
+            "size": 712312
+        },
+        {
+            "name": "fp7_archive/r68/flashplayer7r68_winax.exe",
+            "offset": 22665215,
+            "size": 584312
+        },
+        {
+            "name": "fp7_archive/r68/install_flash_player_7_linux_r68.tar.gz",
+            "offset": 23215259,
+            "size": 1021264
+        },
+        {
+            "name": "fp7_archive/r69/flashplayer7r69_mac.hqx",
+            "offset": 24212740,
+            "size": 2388274
+        },
+        {
+            "name": "fp7_archive/r69/flashplayer7r69_win.exe",
+            "offset": 25755615,
+            "size": 712824
+        },
+        {
+            "name": "fp7_archive/r69/flashplayer7r69_winax.exe",
+            "offset": 26410398,
+            "size": 580728
+        },
+        {
+            "name": "fp7_archive/r69/install_flash_player_7r69_linux.tar.gz",
+            "offset": 26956549,
+            "size": 1017437
+        },
+        {
+            "name": "fp7_archive/r70/flashplayer7r70_mac.hqx",
+            "offset": 27951318,
+            "size": 1758059
+        },
+        {
+            "name": "fp7_archive/r70/flashplayer7r70_win.exe",
+            "offset": 29289639,
+            "size": 707072
+        },
+        {
+            "name": "fp7_archive/r70/flashplayer7r70_winax.exe",
+            "offset": 29940635,
+            "size": 574464
+        },
+        {
+            "name": "fp7_archive/r70/install_flash_player_7_linux_r70.tar.gz",
+            "offset": 30483040,
+            "size": 1017488
+        },
+        {
+            "name": "fp7_archive/r70/install_flash_player_7_solaris_sparc_r70.tar.gz",
+            "offset": 31477772,
+            "size": 1074474
+        },
+        {
+            "name": "fp7_archive/r70/install_flash_player_7_solaris_x86_r70.tar.gz",
+            "offset": 32529149,
+            "size": 995505
+        },
+        {
+            "name": "fp7_archive/r73/flashplayer7r73_mac.hqx",
+            "offset": 33508107,
+            "size": 1785907
+        },
+        {
+            "name": "fp7_archive/r73/flashplayer7r73_mac_classic.hqx",
+            "offset": 34867557,
+            "size": 693355
+        },
+        {
+            "name": "fp7_archive/r73/flashplayer7r73_win.exe",
+            "offset": 35395427,
+            "size": 727400
+        },
+        {
+            "name": "fp7_archive/r73/flashplayer7r73_winax.exe",
+            "offset": 36064920,
+            "size": 590184
+        },
+        {
+            "name": "fp7_archive/r73/install_flash_player_7_linux_r73.tar.gz",
+            "offset": 36620769,
+            "size": 1028656
+        },
+        {
+            "name": "fp7_archive/r73/install_flash_player_7_solaris_sparc_r73.tar.gz",
+            "offset": 37625357,
+            "size": 1058709
+        },
+        {
+            "name": "fp7_archive/r73/install_flash_player_7_solaris_x86_r73.tar.gz",
+            "offset": 38661707,
+            "size": 1006889
+        },
+        {
+            "name": "fp7_archive/readme.txt",
+            "offset": 39652518,
+            "size": 4829
+        }
+    ],
+    "modified": "Tue, 18 Dec 2007 23:00:12 GMT",
+    "size": 39658950,
+    "url": "http://web.archive.org/web/20130129141223id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp7_archive.zip"
+}

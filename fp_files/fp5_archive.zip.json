@@ -1,0 +1,47 @@
+{
+    "files": [
+        {
+            "name": "FP5_archive/r30/fp_5.0.30_activex.exe",
+            "offset": 46,
+            "size": 351024
+        },
+        {
+            "name": "FP5_archive/r30/fp_5.0.30_mac_classic.hqx",
+            "offset": 284910,
+            "size": 600156
+        },
+        {
+            "name": "FP5_archive/r30/fp_5.0.30_plugin.exe",
+            "offset": 738407,
+            "size": 317635
+        },
+        {
+            "name": "FP5_archive/r41_42/flashplayer5installer.exe",
+            "offset": 1049792,
+            "size": 318853
+        },
+        {
+            "name": "FP5_archive/r41_42/flashplayer5installer.hqx",
+            "offset": 1362331,
+            "size": 514514
+        },
+        {
+            "name": "FP5_archive/r41_42/flashplayer5_macosx.hqx",
+            "offset": 1753580,
+            "size": 303286
+        },
+        {
+            "name": "FP5_archive/r41_42/SwFlash.ocx",
+            "offset": 1984248,
+            "size": 409600
+        },
+        {
+            "name": "FP5_archive/readme.txt",
+            "offset": 2205468,
+            "size": 2336
+        }
+    ],
+    "modified": "Fri, 11 Nov 2005 21:43:30 GMT",
+    "size": 2207455,
+    "url": "http://web.archive.org/web/20130220014320id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp5_archive.zip"
+}

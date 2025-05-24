@@ -1,0 +1,57 @@
+{
+    "files": [
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/flashplayer11_3r300_273_win.exe",
+            "offset": 67,
+            "size": 9833912
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/flashplayer11_3r300_273_win.msi",
+            "offset": 9738212,
+            "size": 10903040
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/flashplayer11_3r300_273_win_sa.exe",
+            "offset": 19737413,
+            "size": 8541112
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/flashplayer11_3r300_273_winax.exe",
+            "offset": 23785596,
+            "size": 9231288
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/flashplayer11_3r300_273_winax.msi",
+            "offset": 32920912,
+            "size": 10295296
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273/uninstall_flashplayer11_3r300_273_win.exe",
+            "offset": 42313913,
+            "size": 688568
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273_debug/flashplayer11_3r300_273_win_debug.exe",
+            "offset": 42903862,
+            "size": 10446264
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273_debug/flashplayer11_3r300_273_win_sa_debug_32bit.exe",
+            "offset": 53254420,
+            "size": 9934776
+        },
+        {
+            "name": "fp_11.3.300.273_archive/11_3r300_273_debug/flashplayer11_3r300_273_winax_debug.exe",
+            "offset": 57739010,
+            "size": 9847736
+        },
+        {
+            "name": "fp_11.3.300.273_archive/readme.txt",
+            "offset": 67490893,
+            "size": 3333
+        }
+    ],
+    "modified": "Wed, 03 Oct 2012 05:59:02 GMT",
+    "size": 67493572,
+    "url": "http://web.archive.org/web/20171124091553id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.3.300.273_archive.zip"
+}

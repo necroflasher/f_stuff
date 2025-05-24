@@ -1,0 +1,157 @@
+{
+    "files": [
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_linux.i386.tar.gz",
+            "offset": 58,
+            "size": 8545804
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_linux.x86_64.tar.gz",
+            "offset": 8418206,
+            "size": 9064252
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_linux_sa.x86_64.tar.gz",
+            "offset": 17323498,
+            "size": 8513930
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_linuxpep.i386.tar.gz",
+            "offset": 25802524,
+            "size": 8579860
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_linuxpep.x86_64.tar.gz",
+            "offset": 34272422,
+            "size": 9499706
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_mac.dmg",
+            "offset": 43616336,
+            "size": 14533850
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_mac_pkg.dmg",
+            "offset": 58141735,
+            "size": 13087972
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_mac_sa.dmg",
+            "offset": 71093579,
+            "size": 9625120
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_macpep.dmg",
+            "offset": 80706237,
+            "size": 21665011
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_macpep_pkg.dmg",
+            "offset": 102363386,
+            "size": 20190862
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_win.exe",
+            "offset": 122418623,
+            "size": 21332024
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_win.msi",
+            "offset": 143249160,
+            "size": 22441984
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_win_sa.exe",
+            "offset": 164436894,
+            "size": 15453752
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_winax.exe",
+            "offset": 171103567,
+            "size": 20802616
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_winax.msi",
+            "offset": 191404310,
+            "size": 21908992
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_winpep.exe",
+            "offset": 212060495,
+            "size": 21132344
+        },
+        {
+            "name": "32_0_r0_371/flashplayer32_0r0_371_winpep.msi",
+            "offset": 232691441,
+            "size": 22242304
+        },
+        {
+            "name": "32_0_r0_371/uninstall_flashplayer32_0r0_371_mac.dmg",
+            "offset": 253679196,
+            "size": 1367426
+        },
+        {
+            "name": "32_0_r0_371/uninstall_flashplayer32_0r0_371_win.exe",
+            "offset": 255037527,
+            "size": 1458744
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_linux_debug.i386.tar.gz",
+            "offset": 255988868,
+            "size": 8863404
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_linux_debug.x86_64.tar.gz",
+            "offset": 264708011,
+            "size": 9428984
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_linux_sa_debug.x86_64.tar.gz",
+            "offset": 273962967,
+            "size": 8829187
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_linuxpep_debug.x86_64.tar.gz",
+            "offset": 282756959,
+            "size": 9935871
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_mac_debug.dmg",
+            "offset": 292523738,
+            "size": 13710677
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_mac_sa_debug.dmg",
+            "offset": 306225746,
+            "size": 9953143
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_macpep_debug.dmg",
+            "offset": 316165924,
+            "size": 21089182
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_win_debug.exe",
+            "offset": 337247507,
+            "size": 21077048
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_win_sa_debug.exe",
+            "offset": 357822815,
+            "size": 16281656
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_winax_debug.exe",
+            "offset": 364775804,
+            "size": 21133880
+        },
+        {
+            "name": "32_0_r0_371_debug/flashplayer32_0r0_371_winpep_debug.exe",
+            "offset": 385408129,
+            "size": 21568056
+        }
+    ],
+    "modified": "Tue, 09 Jun 2020 04:35:01 GMT",
+    "size": 406477969,
+    "url": "http://web.archive.org/web/20200618035158id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_32.0.0.371_archive.zip"
+}

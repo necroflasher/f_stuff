@@ -1,0 +1,72 @@
+{
+    "files": [
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_mac.dmg",
+            "offset": 0,
+            "size": 15746036
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_mac_pkg.dmg",
+            "offset": 15746129,
+            "size": 15487442
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_win.exe",
+            "offset": 31233668,
+            "size": 17968816
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_win.msi",
+            "offset": 49202577,
+            "size": 19064320
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_winax.exe",
+            "offset": 68266990,
+            "size": 17373872
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/flashplayer13_0r0_259_winax.msi",
+            "offset": 85640957,
+            "size": 18465280
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/uninstall_flashplayer13_0r0_259_mac.dmg",
+            "offset": 104106332,
+            "size": 257407
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259/uninstall_flashplayer13_0r0_259_win.exe",
+            "offset": 104363842,
+            "size": 852656
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259_debug/flashplayer13_0r0_259_mac_debug.dmg",
+            "offset": 105216601,
+            "size": 16100408
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259_debug/flashplayer13_0r0_259_mac_sa_debug.dmg",
+            "offset": 121317114,
+            "size": 12707795
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259_debug/flashplayer13_0r0_259_winax_debug.exe",
+            "offset": 134025017,
+            "size": 17810608
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259_debug/flashplayer13_0r0_259_win_debug.exe",
+            "offset": 151835732,
+            "size": 17775792
+        },
+        {
+            "name": "fp_13.0.0.259_archive/13_0_r0_259_debug/flashplayer13_0r0_259_win_sa_debug.exe",
+            "offset": 169611629,
+            "size": 11301040
+        }
+    ],
+    "modified": "Mon, 01 Dec 2014 09:17:08 GMT",
+    "size": 180914312,
+    "url": "http://web.archive.org/web/20190403183406id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_13.0.0.259_archive.zip"
+}

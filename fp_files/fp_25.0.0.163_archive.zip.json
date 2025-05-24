@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "name": "25_0_r0_163/flashplayer25_0r0_163_mac.dmg",
+            "offset": 42,
+            "size": 19165453
+        },
+        {
+            "name": "25_0_r0_163/flashplayer25_0r0_163_mac_pkg.dmg",
+            "offset": 19153461,
+            "size": 18632393
+        },
+        {
+            "name": "25_0_r0_163_debug/flashplayer25_0r0_163_mac_debug.dmg",
+            "offset": 37652799,
+            "size": 19407833
+        }
+    ],
+    "modified": "Tue, 09 May 2017 03:34:49 GMT",
+    "size": 57048941,
+    "url": "http://web.archive.org/web/20190316100606id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_25.0.0.163_archive.zip"
+}

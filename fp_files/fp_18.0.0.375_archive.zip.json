@@ -1,0 +1,82 @@
+{
+    "files": [
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_mac.dmg",
+            "offset": 58,
+            "size": 16733634
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_mac_pkg.dmg",
+            "offset": 16728732,
+            "size": 16389572
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_mac_sa.dmg",
+            "offset": 33113510,
+            "size": 13626153
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_win.exe",
+            "offset": 46723816,
+            "size": 18792640
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_win.msi",
+            "offset": 65090428,
+            "size": 19969536
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_win_sa.exe",
+            "offset": 83812113,
+            "size": 12965568
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_winax.exe",
+            "offset": 89265114,
+            "size": 18278080
+        },
+        {
+            "name": "18_0_r0_375/flashplayer18_0r0_375_winax.msi",
+            "offset": 107117434,
+            "size": 19516928
+        },
+        {
+            "name": "18_0_r0_375/uninstall_flashplayer18_0r0_375_mac.dmg",
+            "offset": 125346918,
+            "size": 272762
+        },
+        {
+            "name": "18_0_r0_375/uninstall_flashplayer18_0r0_375_win.exe",
+            "offset": 125615005,
+            "size": 1168064
+        },
+        {
+            "name": "18_0_r0_375_debug/flashplayer18_0r0_375_mac_debug.dmg",
+            "offset": 126352241,
+            "size": 17078642
+        },
+        {
+            "name": "18_0_r0_375_debug/flashplayer18_0r0_375_mac_sa_debug.dmg",
+            "offset": 143425996,
+            "size": 14189503
+        },
+        {
+            "name": "18_0_r0_375_debug/flashplayer18_0r0_375_win_debug.exe",
+            "offset": 157599960,
+            "size": 18612928
+        },
+        {
+            "name": "18_0_r0_375_debug/flashplayer18_0r0_375_win_sa_debug.exe",
+            "offset": 175787061,
+            "size": 13814976
+        },
+        {
+            "name": "18_0_r0_375_debug/flashplayer18_0r0_375_winax_debug.exe",
+            "offset": 181530232,
+            "size": 18664128
+        }
+    ],
+    "modified": "Tue, 13 Sep 2016 04:49:34 GMT",
+    "size": 199770257,
+    "url": "http://web.archive.org/web/20190403190930id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_18.0.0.375_archive.zip"
+}

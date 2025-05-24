@@ -1,0 +1,52 @@
+{
+    "files": [
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_linux.tar.gz",
+            "offset": 63,
+            "size": 3064515
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_linux_sa.tar.gz",
+            "offset": 3048952,
+            "size": 3040827
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_mac.dmg",
+            "offset": 6087364,
+            "size": 3137014
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_mac_sa.app.zip",
+            "offset": 9191210,
+            "size": 4367765
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_ub_mac.dmg",
+            "offset": 13541865,
+            "size": 4679503
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_win.exe",
+            "offset": 18197302,
+            "size": 1504368
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_win_sa.exe",
+            "offset": 19665493,
+            "size": 3424504
+        },
+        {
+            "name": "fp9r280_and_higher_archive/9r280/flashplayer9r280_winax.exe",
+            "offset": 21444641,
+            "size": 1537696
+        },
+        {
+            "name": "fp9r280_and_higher_archive/readme.txt",
+            "offset": 22943309,
+            "size": 2644
+        }
+    ],
+    "modified": "Fri, 30 Jul 2010 22:11:10 GMT",
+    "size": 22945579,
+    "url": "http://web.archive.org/web/20130220014606id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp9r280_plus_archive.zip"
+}

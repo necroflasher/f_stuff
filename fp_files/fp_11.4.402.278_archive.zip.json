@@ -1,0 +1,57 @@
+{
+    "files": [
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/flashplayer11_4r402_278_win.exe",
+            "offset": 121,
+            "size": 10213296
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/flashplayer11_4r402_278_win.msi",
+            "offset": 10116813,
+            "size": 11284992
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/flashplayer11_4r402_278_win_sa.exe",
+            "offset": 20498565,
+            "size": 8872368
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/flashplayer11_4r402_278_winax.exe",
+            "offset": 24671215,
+            "size": 9573296
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/flashplayer11_4r402_278_winax.msi",
+            "offset": 34147928,
+            "size": 10639872
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278/uninstall_flashplayer11_4r402_278_win.exe",
+            "offset": 43886457,
+            "size": 690096
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278_debug/flashplayer11_4r402_278_win_debug.exe",
+            "offset": 44478862,
+            "size": 10859952
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278_debug/flashplayer11_4r402_278_win_sa_debug_32bit.exe",
+            "offset": 55242635,
+            "size": 10329008
+        },
+        {
+            "name": "fp_11.4_402.278_archive/11_4r402_278_debug/flashplayer11_4r402_278_winax_debug.exe",
+            "offset": 59869285,
+            "size": 10219440
+        },
+        {
+            "name": "fp_11.4_402.278_archive/readme.txt",
+            "offset": 69992011,
+            "size": 3334
+        }
+    ],
+    "modified": "Tue, 18 Sep 2012 06:09:11 GMT",
+    "size": 69995211,
+    "url": "http://web.archive.org/web/20190316104448id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.4.402.278_archive.zip"
+}

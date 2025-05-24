@@ -1,0 +1,92 @@
+{
+    "files": [
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_mac.dmg",
+            "offset": 64,
+            "size": 15654766
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_mac_pkg.dmg",
+            "offset": 15649909,
+            "size": 15393174
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_macpep.dmg",
+            "offset": 31038096,
+            "size": 13832111
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_win.exe",
+            "offset": 44865550,
+            "size": 18169520
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_win.msi",
+            "offset": 62883635,
+            "size": 19247616
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_winax.exe",
+            "offset": 81199743,
+            "size": 17583280
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_winax.msi",
+            "offset": 98631020,
+            "size": 18719744
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/flashplayer17_0r0_188_winpep.exe",
+            "offset": 116380591,
+            "size": 17246384
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/uninstall_flashplayer17_0r0_188_mac.dmg",
+            "offset": 133474975,
+            "size": 258569
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188/uninstall_flashplayer17_0r0_188_win.exe",
+            "offset": 133728904,
+            "size": 927920
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_mac_debug.dmg",
+            "offset": 134500302,
+            "size": 15997972
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_mac_sa_debug.dmg",
+            "offset": 150493569,
+            "size": 14028384
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_macpep_debug.dmg",
+            "offset": 164506852,
+            "size": 14207230
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_win_debug.exe",
+            "offset": 178709372,
+            "size": 17923760
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_win_sa_debug.exe",
+            "offset": 196481665,
+            "size": 12093616
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_winax_debug.exe",
+            "offset": 202186879,
+            "size": 17973936
+        },
+        {
+            "name": "fp_17.0.0.188_archive/17_0_r0_188_debug/flashplayer17_0r0_188_winpep_debug.exe",
+            "offset": 220008962,
+            "size": 17633456
+        }
+    ],
+    "modified": "Tue, 09 Jun 2015 10:00:18 GMT",
+    "size": 237492499,
+    "url": "http://web.archive.org/web/20160413064835id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_17.0.0.188_archive.zip"
+}

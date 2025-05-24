@@ -1,0 +1,67 @@
+{
+    "files": [
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/flashplayer11_8r800_94_mac.dmg",
+            "offset": 119,
+            "size": 18124181
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/flashplayer11_8r800_94_win.exe",
+            "offset": 18119852,
+            "size": 17737608
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/flashplayer11_8r800_94_win.msi",
+            "offset": 35728981,
+            "size": 18834944
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/flashplayer11_8r800_94_winax.exe",
+            "offset": 53633919,
+            "size": 17139080
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/flashplayer11_8r800_94_winax.msi",
+            "offset": 70643931,
+            "size": 18231296
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/uninstall_flashplayer11_8r800_94_mac.dmg",
+            "offset": 87946213,
+            "size": 233289
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94/uninstall_flashplayer11_8r800_94_win.exe",
+            "offset": 88174888,
+            "size": 815496
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94_debug/flashplayer11_8r800_94_mac_debug.dmg",
+            "offset": 88854606,
+            "size": 18432605
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94_debug/flashplayer11_8r800_94_mac_sa_debug.dmg",
+            "offset": 107282972,
+            "size": 16193910
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94_debug/flashplayer11_8r800_94_winax_debug.exe",
+            "offset": 123463090,
+            "size": 17582472
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94_debug/flashplayer11_8r800_94_win_debug.exe",
+            "offset": 140917273,
+            "size": 18182024
+        },
+        {
+            "name": "fp_11.8.800.94_archive/11_8_r800_94_debug/flashplayer11_8r800_94_win_sa_debug.exe",
+            "offset": 158971250,
+            "size": 11083656
+        }
+    ],
+    "modified": "Tue, 25 Jun 2013 09:24:11 GMT",
+    "size": 163783630,
+    "url": "http://web.archive.org/web/20180113185028id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.8.800.94_archive.zip"
+}

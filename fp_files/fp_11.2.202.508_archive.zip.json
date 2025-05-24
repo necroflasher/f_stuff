@@ -1,0 +1,32 @@
+{
+    "files": [
+        {
+            "name": "fp_11.2.202.508_archive/11_2r202_508_32bit/flashplayer_11_2r202_508_linux.i386.tar.gz",
+            "offset": 0,
+            "size": 6947080
+        },
+        {
+            "name": "fp_11.2.202.508_archive/11_2r202_508_32bit/flashplayer_11_2r202_508_linux_sa.i386.tar.gz",
+            "offset": 6947195,
+            "size": 5979986
+        },
+        {
+            "name": "fp_11.2.202.508_archive/11_2r202_508_32bit_debug/flashplayer11_2r202_508_linux_debug.i386.tar.gz",
+            "offset": 12927299,
+            "size": 7427656
+        },
+        {
+            "name": "fp_11.2.202.508_archive/11_2r202_508_32bit_debug/flashplayer11_2r202_508_linux_sa_debug.i386.tar.gz",
+            "offset": 20355081,
+            "size": 6452977
+        },
+        {
+            "name": "fp_11.2.202.508_archive/11_2r202_508_64bit/flash-plugin-11.2.202.508-release.x86_64.tar.gz",
+            "offset": 26808187,
+            "size": 7266504
+        }
+    ],
+    "modified": "Sat, 08 Aug 2015 09:13:07 GMT",
+    "size": 34075521,
+    "url": "http://web.archive.org/web/20160413102714id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.2.202.508_archive.zip"
+}

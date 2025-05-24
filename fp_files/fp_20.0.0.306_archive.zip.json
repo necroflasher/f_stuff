@@ -1,0 +1,102 @@
+{
+    "files": [
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_mac.dmg",
+            "offset": 58,
+            "size": 16997875
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_mac_pkg.dmg",
+            "offset": 16992969,
+            "size": 16613563
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_mac_sa.dmg",
+            "offset": 33546958,
+            "size": 13931974
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_macpep.dmg",
+            "offset": 47463571,
+            "size": 16719896
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_win.exe",
+            "offset": 64178530,
+            "size": 19022528
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_win.msi",
+            "offset": 82775945,
+            "size": 20201472
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_win_sa.exe",
+            "offset": 101729809,
+            "size": 13236928
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_winax.exe",
+            "offset": 107278416,
+            "size": 18511040
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_winax.msi",
+            "offset": 125364519,
+            "size": 19751424
+        },
+        {
+            "name": "20_0_r0_306/flashplayer20_0r0_306_winpep.exe",
+            "offset": 143829447,
+            "size": 19613888
+        },
+        {
+            "name": "20_0_r0_306/uninstall_flashplayer20_0r0_306_mac.dmg",
+            "offset": 163018612,
+            "size": 276530
+        },
+        {
+            "name": "20_0_r0_306/uninstall_flashplayer20_0r0_306_win.exe",
+            "offset": 163290471,
+            "size": 1163968
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_mac_debug.dmg",
+            "offset": 164024703,
+            "size": 17083315
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_mac_sa_debug.dmg",
+            "offset": 181102692,
+            "size": 14458029
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_macpep_debug.dmg",
+            "offset": 195544130,
+            "size": 17142044
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_win_debug.exe",
+            "offset": 212681237,
+            "size": 18841792
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_win_sa_debug.exe",
+            "offset": 231098250,
+            "size": 14089920
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_winax_debug.exe",
+            "offset": 236938056,
+            "size": 18895552
+        },
+        {
+            "name": "20_0_r0_306_debug/flashplayer20_0r0_306_winpep_debug.exe",
+            "offset": 255408991,
+            "size": 20094144
+        }
+    ],
+    "modified": "Thu, 10 Mar 2016 03:46:50 GMT",
+    "size": 275080734,
+    "url": "http://web.archive.org/web/20160913010140id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_20.0.0.306_archive.zip"
+}

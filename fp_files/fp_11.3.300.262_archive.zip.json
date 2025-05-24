@@ -1,0 +1,42 @@
+{
+    "files": [
+        {
+            "name": "fp_11.3.300.262_archive/11_3r300_262/flashplayer11_3r300_262_win.exe",
+            "offset": 153,
+            "size": 9815752
+        },
+        {
+            "name": "fp_11.3.300.262_archive/11_3r300_262/flashplayer11_3r300_262_win.msi",
+            "offset": 9719995,
+            "size": 10884608
+        },
+        {
+            "name": "fp_11.3.300.262_archive/11_3r300_262/uninstall_flashplayer11_3r300_262_win.exe",
+            "offset": 19701121,
+            "size": 686792
+        },
+        {
+            "name": "fp_11.3.300.262_archive/11_3r300_262_debug/flashplayer11_3r300_262_win_debug.exe",
+            "offset": 20289362,
+            "size": 9926344
+        },
+        {
+            "name": "fp_11.3.300.262_archive/11_3r300_262_debug/flashplayer11_3r300_262_win_sa_debug_32bit.exe",
+            "offset": 24748920,
+            "size": 10429128
+        },
+        {
+            "name": "fp_11.3.300.262_archive/readme.txt",
+            "offset": 35082490,
+            "size": 3201
+        },
+        {
+            "name": "__MACOSX/fp_11.3.300.262_archive/._readme.txt",
+            "offset": 35083958,
+            "size": 167
+        }
+    ],
+    "modified": "Mon, 16 Jul 2012 20:46:53 GMT",
+    "size": 35085482,
+    "url": "http://web.archive.org/web/20160413102648id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp_11.3.300.262_archive.zip"
+}

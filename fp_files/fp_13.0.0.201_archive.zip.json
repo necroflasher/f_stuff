@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "name": "fp_13.0.0.201_archive/13_0_r0_201/flashplayer13_0r0_201_mac.dmg",
+            "offset": 116,
+            "size": 15718323
+        },
+        {
+            "name": "fp_13.0.0.201_archive/13_0_r0_201/uninstall_flashplayer13_0r0_201_mac.dmg",
+            "offset": 15714044,
+            "size": 243652
+        },
+        {
+            "name": "fp_13.0.0.201_archive/13_0_r0_201_debug/flashplayer13_0r0_201_mac_debug.dmg",
+            "offset": 15953076,
+            "size": 16064800
+        },
+        {
+            "name": "fp_13.0.0.201_archive/13_0_r0_201_debug/flashplayer13_0r0_201_mac_sa_debug.dmg",
+            "offset": 32013572,
+            "size": 12675972
+        }
+    ],
+    "modified": "Tue, 15 Apr 2014 02:28:42 GMT",
+    "size": 44676862,
+    "url": "http://web.archive.org/web/20190316105304id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_13.0.0.201_archive.zip"
+}

@@ -1,0 +1,67 @@
+{
+    "files": [
+        {
+            "name": "13_0_r0_223/flashplayer13_0r0_223_mac.dmg",
+            "offset": 0,
+            "size": 15719908
+        },
+        {
+            "name": "13_0_r0_223/flashplayer13_0r0_223_win.exe",
+            "offset": 15719979,
+            "size": 17939632
+        },
+        {
+            "name": "13_0_r0_223/flashplayer13_0r0_223_win.msi",
+            "offset": 33659682,
+            "size": 19034624
+        },
+        {
+            "name": "13_0_r0_223/flashplayer13_0r0_223_winax.exe",
+            "offset": 52694377,
+            "size": 17361072
+        },
+        {
+            "name": "13_0_r0_223/flashplayer13_0r0_223_winax.msi",
+            "offset": 70055522,
+            "size": 18451968
+        },
+        {
+            "name": "13_0_r0_223/uninstall_flashplayer13_0r0_223_mac.dmg",
+            "offset": 88507563,
+            "size": 243566
+        },
+        {
+            "name": "13_0_r0_223/uninstall_flashplayer13_0r0_223_win.exe",
+            "offset": 88751210,
+            "size": 848048
+        },
+        {
+            "name": "13_0_r0_223_debug/flashplayer13_0r0_223_mac_debug.dmg",
+            "offset": 89599339,
+            "size": 16068931
+        },
+        {
+            "name": "13_0_r0_223_debug/flashplayer13_0r0_223_mac_sa_debug.dmg",
+            "offset": 105668353,
+            "size": 12691861
+        },
+        {
+            "name": "13_0_r0_223_debug/flashplayer13_0r0_223_winax_debug.exe",
+            "offset": 118360300,
+            "size": 17795760
+        },
+        {
+            "name": "13_0_r0_223_debug/flashplayer13_0r0_223_win_debug.exe",
+            "offset": 136156145,
+            "size": 17746096
+        },
+        {
+            "name": "13_0_r0_223_debug/flashplayer13_0r0_223_win_sa_debug.exe",
+            "offset": 153902324,
+            "size": 11284144
+        }
+    ],
+    "modified": "Fri, 13 Jun 2014 11:53:45 GMT",
+    "size": 165187712,
+    "url": "http://web.archive.org/web/20171124131342id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_13.0.0.223_archive.zip"
+}

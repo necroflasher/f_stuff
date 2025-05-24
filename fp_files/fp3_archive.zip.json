@@ -1,0 +1,37 @@
+{
+    "files": [
+        {
+            "name": "FP3_archive/installflashplayer.exe",
+            "offset": 0,
+            "size": 222191
+        },
+        {
+            "name": "FP3_archive/readme.txt",
+            "offset": 216158,
+            "size": 2206
+        },
+        {
+            "name": "FP3_archive/shockwaveflashinstall(68k).sea.hqx",
+            "offset": 217199,
+            "size": 298775
+        },
+        {
+            "name": "FP3_archive/shockwaveflashinstall.sea.hqx",
+            "offset": 442291,
+            "size": 347187
+        },
+        {
+            "name": "FP3_archive/swflash.exe",
+            "offset": 703707,
+            "size": 194147
+        },
+        {
+            "name": "FP3_archive/SwFlash.ocx",
+            "offset": 891346,
+            "size": 188928
+        }
+    ],
+    "modified": "Fri, 11 Nov 2005 21:43:24 GMT",
+    "size": 998532,
+    "url": "http://web.archive.org/web/20130220014314id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp3_archive.zip"
+}

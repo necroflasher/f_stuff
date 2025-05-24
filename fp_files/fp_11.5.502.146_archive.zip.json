@@ -1,0 +1,72 @@
+{
+    "files": [
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/flashplayer11_5r502_146_mac.dmg",
+            "offset": 122,
+            "size": 16876703
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/flashplayer11_5r502_146_win.exe",
+            "offset": 16870556,
+            "size": 16369160
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/flashplayer11_5r502_146_win.msi",
+            "offset": 33142359,
+            "size": 17491968
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/flashplayer11_5r502_146_winax.exe",
+            "offset": 49715120,
+            "size": 15739912
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/flashplayer11_5r502_146_winax.msi",
+            "offset": 65357166,
+            "size": 16858624
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/uninstall_flashplayer11_5r502_146_mac.dmg",
+            "offset": 81297312,
+            "size": 230571
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146/uninstall_flashplayer11_5r502_146_win.exe",
+            "offset": 81523221,
+            "size": 699912
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146_debug/flashplayer11_5r502_146_mac_debug.dmg",
+            "offset": 82123455,
+            "size": 17502231
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146_debug/flashplayer11_5r502_146_mac_sa_debug.app.zip",
+            "offset": 99619390,
+            "size": 15979972
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146_debug/flashplayer11_5r502_146_winax_debug.exe",
+            "offset": 115530777,
+            "size": 16472072
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146_debug/flashplayer11_5r502_146_win_debug.exe",
+            "offset": 131905621,
+            "size": 17102344
+        },
+        {
+            "name": "fp_11.5.502.146_archive/11_5_r502_146_debug/flashplayer11_5r502_146_win_sa_debug.exe",
+            "offset": 148910734,
+            "size": 10340360
+        },
+        {
+            "name": "fp_11.5.502.146_archive/readme.txt",
+            "offset": 153538191,
+            "size": 3634
+        }
+    ],
+    "modified": "Mon, 24 Dec 2012 07:05:15 GMT",
+    "size": 153541944,
+    "url": "http://web.archive.org/web/20190403182418id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.5.502.146_archive.zip"
+}

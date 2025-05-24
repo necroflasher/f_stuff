@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "name": "fp_15.0.0.167_archive/15_0_r0_167/flashplayer15_0r0_167_winax.exe",
+            "offset": 116,
+            "size": 17323696
+        },
+        {
+            "name": "fp_15.0.0.167_archive/15_0_r0_167/flashplayer15_0r0_167_winax.msi",
+            "offset": 17187140,
+            "size": 18481152
+        },
+        {
+            "name": "fp_15.0.0.167_archive/15_0_r0_167/uninstall_flashplayer15_0r0_167_win.exe",
+            "offset": 34703737,
+            "size": 854704
+        },
+        {
+            "name": "fp_15.0.0.167_archive/15_0_r0_167_debug/flashplayer15_0r0_167_winax_debug.exe",
+            "offset": 35419439,
+            "size": 17709744
+        }
+    ],
+    "modified": "Mon, 29 Sep 2014 08:03:51 GMT",
+    "size": 52994204,
+    "url": "http://web.archive.org/web/20190403183926id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_15.0.0.167_archive.zip"
+}

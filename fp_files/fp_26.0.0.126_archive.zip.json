@@ -1,0 +1,157 @@
+{
+    "files": [
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_linux.i386.tar.gz",
+            "offset": 58,
+            "size": 8490374
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_linux.x86_64.tar.gz",
+            "offset": 8363955,
+            "size": 9004144
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_linux_sa.x86_64.tar.gz",
+            "offset": 17209981,
+            "size": 8466798
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_linuxpep.i386.tar.gz",
+            "offset": 25643097,
+            "size": 8534826
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_linuxpep.x86_64.tar.gz",
+            "offset": 34069298,
+            "size": 9449227
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_mac.dmg",
+            "offset": 43364554,
+            "size": 19188392
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_mac_pkg.dmg",
+            "offset": 62545793,
+            "size": 18648772
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_mac_sa.dmg",
+            "offset": 81066475,
+            "size": 17076773
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_macpep.dmg",
+            "offset": 98128190,
+            "size": 18651240
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_macpep_pkg.dmg",
+            "offset": 116772536,
+            "size": 18120400
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_win.exe",
+            "offset": 134761830,
+            "size": 20646400
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_win.msi",
+            "offset": 154960815,
+            "size": 21814272
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_win_sa.exe",
+            "offset": 175523138,
+            "size": 15952384
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_winax.exe",
+            "offset": 182195460,
+            "size": 20118528
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_winax.msi",
+            "offset": 201866526,
+            "size": 21282304
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_winpep.exe",
+            "offset": 221897953,
+            "size": 20609536
+        },
+        {
+            "name": "26_0_r0_126/flashplayer26_0r0_126_winpep.msi",
+            "offset": 242060641,
+            "size": 21773312
+        },
+        {
+            "name": "26_0_r0_126/uninstall_flashplayer26_0r0_126_mac.dmg",
+            "offset": 262581066,
+            "size": 428947
+        },
+        {
+            "name": "26_0_r0_126/uninstall_flashplayer26_0r0_126_win.exe",
+            "offset": 263001643,
+            "size": 1280000
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_linux_debug.i386.tar.gz",
+            "offset": 263829248,
+            "size": 8806835
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_linux_debug.x86_64.tar.gz",
+            "offset": 272494469,
+            "size": 9368058
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_linux_sa_debug.x86_64.tar.gz",
+            "offset": 281690105,
+            "size": 8778176
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_linuxpep_debug.x86_64.tar.gz",
+            "offset": 290432220,
+            "size": 9883498
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_mac_debug.dmg",
+            "offset": 300146977,
+            "size": 19403694
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_mac_sa_debug.dmg",
+            "offset": 319544033,
+            "size": 17512790
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_macpep_debug.dmg",
+            "offset": 337041706,
+            "size": 18959067
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_win_debug.exe",
+            "offset": 355994025,
+            "size": 20445184
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_win_sa_debug.exe",
+            "offset": 375992238,
+            "size": 16779776
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_winax_debug.exe",
+            "offset": 382954118,
+            "size": 20480512
+        },
+        {
+            "name": "26_0_r0_126_debug/flashplayer26_0r0_126_winpep_debug.exe",
+            "offset": 402987444,
+            "size": 21087744
+        }
+    ],
+    "modified": "Tue, 11 Jul 2017 03:38:38 GMT",
+    "size": 423631517,
+    "url": "http://web.archive.org/web/20190316102647id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_26.0.0.126_archive.zip"
+}

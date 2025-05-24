@@ -1,0 +1,132 @@
+{
+    "files": [
+        {
+            "name": "FP6_archive/r21/fp_6.0.21_activex.exe",
+            "offset": 46,
+            "size": 576072
+        },
+        {
+            "name": "FP6_archive/r21/fp_6.0.21_macosx.hqx",
+            "offset": 511645,
+            "size": 1300811
+        },
+        {
+            "name": "FP6_archive/r21/fp_6.0.21_mac_classic.hqx",
+            "offset": 1308027,
+            "size": 914028
+        },
+        {
+            "name": "FP6_archive/r21/fp_6.0.21_plugin.exe",
+            "offset": 2002847,
+            "size": 525050
+        },
+        {
+            "name": "FP6_archive/r23/fp_6.0.23_activex.exe",
+            "offset": 2514496,
+            "size": 580736
+        },
+        {
+            "name": "FP6_archive/r23/fp_6.0.23_macosx.hqx",
+            "offset": 3028138,
+            "size": 1300693
+        },
+        {
+            "name": "FP6_archive/r23/fp_6.0.23_mac_classic.hqx",
+            "offset": 3824641,
+            "size": 914102
+        },
+        {
+            "name": "FP6_archive/r23/fp_6.0.23_plugin.exe",
+            "offset": 4519595,
+            "size": 525024
+        },
+        {
+            "name": "FP6_archive/r29/fp_6.0.29_activex.exe",
+            "offset": 5031304,
+            "size": 576584
+        },
+        {
+            "name": "FP6_archive/r29/fp_6.0.29_macosx.hqx",
+            "offset": 5543283,
+            "size": 1400214
+        },
+        {
+            "name": "FP6_archive/r29/fp_6.0.29_mac_classic.hqx",
+            "offset": 6353219,
+            "size": 1038117
+        },
+        {
+            "name": "FP6_archive/r29/fp_6.0.29_plugin.exe",
+            "offset": 7064596,
+            "size": 525252
+        },
+        {
+            "name": "FP6_archive/r47/fp_6.0.47_activex.exe",
+            "offset": 7576424,
+            "size": 595072
+        },
+        {
+            "name": "FP6_archive/r47/fp_6.0.47_macosx.hqx",
+            "offset": 8104437,
+            "size": 1419080
+        },
+        {
+            "name": "FP6_archive/r47/fp_6.0.47_mac_classic.hqx",
+            "offset": 8927861,
+            "size": 1056026
+        },
+        {
+            "name": "FP6_archive/r47/fp_6.0.47_plugin.exe",
+            "offset": 9653637,
+            "size": 542659
+        },
+        {
+            "name": "FP6_archive/r65/fp_6.0.65_activex.exe",
+            "offset": 10183017,
+            "size": 600648
+        },
+        {
+            "name": "FP6_archive/r65/fp_6.0.65_macosx.hqx",
+            "offset": 10719393,
+            "size": 1454482
+        },
+        {
+            "name": "FP6_archive/r65/fp_6.0.65_mac_classic.hqx",
+            "offset": 11560555,
+            "size": 1206028
+        },
+        {
+            "name": "FP6_archive/r65/fp_6.0.65_plugin.exe",
+            "offset": 12310120,
+            "size": 554502
+        },
+        {
+            "name": "FP6_archive/r79/fp_6.0.79_activex.exe",
+            "offset": 12850993,
+            "size": 602184
+        },
+        {
+            "name": "FP6_archive/r79/fp_6.0.79_macosx.hqx",
+            "offset": 13389081,
+            "size": 1456979
+        },
+        {
+            "name": "FP6_archive/r79/fp_6.0.79_mac_classic.hqx",
+            "offset": 14232082,
+            "size": 1208041
+        },
+        {
+            "name": "FP6_archive/r79/fp_6.0.79_plugin.exe",
+            "offset": 14983438,
+            "size": 556057
+        },
+        {
+            "name": "FP6_archive/readme.txt",
+            "offset": 15525837,
+            "size": 3272
+        }
+    ],
+    "modified": "Fri, 11 Nov 2005 21:43:57 GMT",
+    "size": 15529529,
+    "url": "http://web.archive.org/web/20130220014323id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp6_archive.zip"
+}

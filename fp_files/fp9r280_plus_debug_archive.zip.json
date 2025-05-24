@@ -1,0 +1,52 @@
+{
+    "files": [
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_linux_debug.tar.gz",
+            "offset": 63,
+            "size": 3282360
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_linux_sa_debug.tar.gz",
+            "offset": 3280163,
+            "size": 3313015
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_mac_debug.dmg",
+            "offset": 6573120,
+            "size": 3348507
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_mac_sa_debug.app.zip",
+            "offset": 9883917,
+            "size": 4800844
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_ub_mac_debug.dmg",
+            "offset": 14666882,
+            "size": 5114614
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_win_debug.exe",
+            "offset": 19763849,
+            "size": 1610504
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_win_sa_debug.exe",
+            "offset": 21338207,
+            "size": 3825912
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/9r280/flashplayer9r280_winax_debug.exe",
+            "offset": 23261872,
+            "size": 1645232
+        },
+        {
+            "name": "fp9r280_plus_debug_archive/readme.txt",
+            "offset": 24868138,
+            "size": 3103
+        }
+    ],
+    "modified": "Fri, 30 Jul 2010 22:21:39 GMT",
+    "size": 24870640,
+    "url": "http://web.archive.org/web/20130220014605id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp9r280_plus_debug_archive.zip"
+}

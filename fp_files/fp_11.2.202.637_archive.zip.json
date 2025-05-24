@@ -1,0 +1,32 @@
+{
+    "files": [
+        {
+            "name": "11_2_r202_637_32bit/flashplayer11_2r202_637_linux.i386.tar.gz",
+            "offset": 50,
+            "size": 6990653
+        },
+        {
+            "name": "11_2_r202_637_32bit/flashplayer11_2r202_637_linux_sa.i386.tar.gz",
+            "offset": 6893739,
+            "size": 6019370
+        },
+        {
+            "name": "11_2_r202_637_32bit_debug/flashplayer11_2r202_637_linux_debug.i386.tar.gz",
+            "offset": 12895655,
+            "size": 7472956
+        },
+        {
+            "name": "11_2_r202_637_32bit_debug/flashplayer11_2r202_637_linux_sa_debug.i386.tar.gz",
+            "offset": 20253481,
+            "size": 6493218
+        },
+        {
+            "name": "11_2_r202_637_64bit/flashplayer11_2r202_637_linux.x86_64.tar.gz",
+            "offset": 26729425,
+            "size": 7300737
+        }
+    ],
+    "modified": "Tue, 11 Oct 2016 04:39:21 GMT",
+    "size": 33909588,
+    "url": "http://web.archive.org/web/20190316104039id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.2.202.637_archive.zip"
+}

@@ -1,0 +1,102 @@
+{
+    "files": [
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flahsplayer19_0r0_245_sa.dmg",
+            "offset": 64,
+            "size": 13677470
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flahsplayer19_0r0_245_sa.exe",
+            "offset": 13663146,
+            "size": 12949704
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer_19_0r0_245__macpep.dmg",
+            "offset": 19139840,
+            "size": 16488694
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer_19_0r0_245__winpep.exe",
+            "offset": 35623763,
+            "size": 19387592
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_mac.dmg",
+            "offset": 54589994,
+            "size": 16761152
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_mac_pkg.dmg",
+            "offset": 71346165,
+            "size": 16413972
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_win.exe",
+            "offset": 87755283,
+            "size": 18843848
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_win.msi",
+            "offset": 106177847,
+            "size": 20024832
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_winax.exe",
+            "offset": 124956633,
+            "size": 18324168
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/flashplayer19_0r0_245_winax.msi",
+            "offset": 142858846,
+            "size": 19566080
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/uninstall_flashplayer19_0r0_245_mac.dmg",
+            "offset": 161139335,
+            "size": 272816
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245/uninstall_flashplayer19_0r0_245_win.exe",
+            "offset": 161407492,
+            "size": 1158856
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer_19_0r0_245__winpep_debug.exe",
+            "offset": 162139920,
+            "size": 19862216
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer_19_0r0_245_macpep_debug.dmg",
+            "offset": 181580789,
+            "size": 16904779
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer19_0r0_245_mac_debug.dmg",
+            "offset": 198480846,
+            "size": 16854474
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer19_0r0_245_sa_debug.dmg",
+            "offset": 215330316,
+            "size": 14205029
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer19_0r0_245_win_debug.exe",
+            "offset": 229520324,
+            "size": 18650312
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer19_0r0_245_win_sa_debug.exe",
+            "offset": 247748927,
+            "size": 13801160
+        },
+        {
+            "name": "fp_19.0.0.245_archive/19_0_r0_245_debug/flashplayer19_0r0_245_winax_debug.exe",
+            "offset": 253519864,
+            "size": 18709192
+        }
+    ],
+    "modified": "Thu, 03 Dec 2015 12:23:44 GMT",
+    "size": 271809871,
+    "url": "http://web.archive.org/web/20160413105711id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_19.0.0.245_archive.zip"
+}

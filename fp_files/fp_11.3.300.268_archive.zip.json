@@ -1,0 +1,37 @@
+{
+    "files": [
+        {
+            "name": "fp_11.3.300.268_archive/11_3r300_268/flashplayer11_3r300_268_mac.dmg",
+            "offset": 67,
+            "size": 11579288
+        },
+        {
+            "name": "fp_11.3.300.268_archive/11_3r300_268/flashplayer11_3r300_268_mac_sa.app.zip",
+            "offset": 11574810,
+            "size": 14650147
+        },
+        {
+            "name": "fp_11.3.300.268_archive/11_3r300_268/uninstall_flashplayer11_3r300_268_mac.dmg",
+            "offset": 26225062,
+            "size": 229823
+        },
+        {
+            "name": "fp_11.3.300.268_archive/11_3r300_268_debug/flashplayer11_3r300_268_mac_debug.dmg",
+            "offset": 26450336,
+            "size": 12167281
+        },
+        {
+            "name": "fp_11.3.300.268_archive/11_3r300_268_debug/flashplayer11_3r300_268_mac_sa_debug.app.zip",
+            "offset": 38612898,
+            "size": 15629075
+        },
+        {
+            "name": "fp_11.3.300.268_archive/readme.txt",
+            "offset": 54242090,
+            "size": 3076
+        }
+    ],
+    "modified": "Wed, 03 Oct 2012 06:05:50 GMT",
+    "size": 54244263,
+    "url": "http://web.archive.org/web/20190316103044id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.3.300.268_archive.zip"
+}

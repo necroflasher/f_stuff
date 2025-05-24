@@ -1,0 +1,102 @@
+{
+    "files": [
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer_10_2r152_27_linux.tar.gz",
+            "offset": 65,
+            "size": 4967098
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer_10_2r152_27_linux_sa.tar.gz",
+            "offset": 4924471,
+            "size": 4265492
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_mac_intel.dmg",
+            "offset": 9181377,
+            "size": 5811312
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_mac_sa.app.zip",
+            "offset": 14988206,
+            "size": 5062722
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_solaris_sparc.tar.bz2",
+            "offset": 20024642,
+            "size": 5142188
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_solaris_x86.tar.bz2",
+            "offset": 25149984,
+            "size": 4568567
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_win.exe",
+            "offset": 29684052,
+            "size": 2832544
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_win_sa.exe",
+            "offset": 32461418,
+            "size": 5640352
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/flashplayer10_2r152_26_winax.exe",
+            "offset": 35400277,
+            "size": 2871968
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/uninstall_flashplayer10_2r152_26_mac_intel.dmg",
+            "offset": 38217410,
+            "size": 248351
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26/uninstall_flashplayer10_2r152_26_win.exe",
+            "offset": 38460995,
+            "size": 235168
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer_10_2r152_27_linux_debug.tar.gz",
+            "offset": 38640518,
+            "size": 5368583
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer_10_2r152_27_linux_sa_debug.tar.gz",
+            "offset": 43953394,
+            "size": 4641093
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer10_2r152_26_mac_intel_debug.dmg",
+            "offset": 48585509,
+            "size": 6200835
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer10_2r152_26_mac_sa_debug.app.zip",
+            "offset": 54781881,
+            "size": 5401864
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer10_2r152_26_win_debug.exe",
+            "offset": 60155286,
+            "size": 3100320
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer10_2r152_26_win_sa_debug.exe",
+            "offset": 63200840,
+            "size": 6670496
+        },
+        {
+            "name": "fp_10.2.152.26_archive/10_2r152_26_debug/flashplayer10_2r152_26_winax_debug.exe",
+            "offset": 66467492,
+            "size": 3140768
+        },
+        {
+            "name": "fp_10.2.152.26_archive/readme.txt",
+            "offset": 69553240,
+            "size": 3620
+        }
+    ],
+    "modified": "Tue, 19 Apr 2011 20:45:16 GMT",
+    "size": 69557122,
+    "url": "http://web.archive.org/web/20160413042656id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp_10.2.152.26_archive.zip"
+}

@@ -1,0 +1,82 @@
+{
+    "files": [
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/.DS_Store",
+            "offset": 78,
+            "size": 6148
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/._.DS_Store",
+            "offset": 626,
+            "size": 216
+        },
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/10_3_r183_90/flashplayer_10_3r183_90_mac_intel.dmg",
+            "offset": 973,
+            "size": 6434106
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/10_3_r183_90/._flashplayer_10_3r183_90_mac_intel.dmg",
+            "offset": 6430472,
+            "size": 216
+        },
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/10_3_r183_90/flashplayer_10_3r183_90_mac_sa.app.zip",
+            "offset": 6430764,
+            "size": 5203447
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/10_3_r183_90/._flashplayer_10_3r183_90_mac_sa.app.zip",
+            "offset": 11606557,
+            "size": 216
+        },
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/10_3_r183_90/uninstall_flashplayer10_3r183_90_mac_intel.dmg",
+            "offset": 11606850,
+            "size": 447041
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/10_3_r183_90/._uninstall_flashplayer10_3r183_90_mac_intel.dmg",
+            "offset": 12049418,
+            "size": 216
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/._10_3_r183_90",
+            "offset": 12049719,
+            "size": 216
+        },
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/10_3_r183_90_debug/flashplayer10_3r183_90_mac_intel_debug.dmg",
+            "offset": 12050070,
+            "size": 6829496
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/10_3_r183_90_debug/._flashplayer10_3r183_90_mac_intel_debug.dmg",
+            "offset": 18874931,
+            "size": 216
+        },
+        {
+            "name": "fp_10.3.183.90_archive_mac_only/10_3_r183_90_debug/flashplayer10_3r183_90_mac_sa_debug.app.zip",
+            "offset": 18875234,
+            "size": 5541210
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/10_3_r183_90_debug/._flashplayer10_3r183_90_mac_sa_debug.app.zip",
+            "offset": 24386835,
+            "size": 216
+        },
+        {
+            "name": "__MACOSX/fp_10.3.183.90_archive_mac_only/._10_3_r183_90_debug",
+            "offset": 24387139,
+            "size": 216
+        },
+        {
+            "name": "__MACOSX/._fp_10.3.183.90_archive_mac_only",
+            "offset": 24387399,
+            "size": 216
+        }
+    ],
+    "modified": "Wed, 04 Dec 2013 22:52:31 GMT",
+    "size": 24390422,
+    "url": "http://web.archive.org/web/20160413063530id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_10.3.183.90_archive_mac_only.zip"
+}

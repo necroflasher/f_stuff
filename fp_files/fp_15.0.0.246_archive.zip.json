@@ -1,0 +1,62 @@
+{
+    "files": [
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/flashplayer15_0r0_246_mac.dmg",
+            "offset": 64,
+            "size": 15628895
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/flashplayer15_0r0_246_mac_pkg.dmg",
+            "offset": 15624308,
+            "size": 15370224
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/flashplayer15_0r0_246_win.exe",
+            "offset": 30989806,
+            "size": 17930928
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/flashplayer15_0r0_246_winax.exe",
+            "offset": 48786507,
+            "size": 17340080
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/uninstall_flashplayer15_0r0_246_mac.dmg",
+            "offset": 65992416,
+            "size": 256623
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246/uninstall_flashplayer15_0r0_246_win.exe",
+            "offset": 66244402,
+            "size": 855728
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246_debug/flashplayer15_0r0_246_mac_debug.dmg",
+            "offset": 66961173,
+            "size": 15976299
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246_debug/flashplayer15_0r0_246_mac_sa_debug.dmg",
+            "offset": 82932633,
+            "size": 14021703
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246_debug/flashplayer15_0r0_246_win_debug.exe",
+            "offset": 96939888,
+            "size": 17672368
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246_debug/flashplayer15_0r0_246_win_sa_debug.exe",
+            "offset": 114478329,
+            "size": 12068016
+        },
+        {
+            "name": "fp_15.0.0.246_archive/15_0_r0_246_debug/flashplayer15_0r0_246_winax_debug.exe",
+            "offset": 120172209,
+            "size": 17723056
+        }
+    ],
+    "modified": "Tue, 06 Jan 2015 06:48:11 GMT",
+    "size": 137763165,
+    "url": "http://web.archive.org/web/20190403183431id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_15.0.0.246_archive.zip"
+}

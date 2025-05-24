@@ -1,0 +1,67 @@
+{
+    "files": [
+        {
+            "name": "14_0_r0_125/flashplayer14_0r0_125_mac.dmg",
+            "offset": 0,
+            "size": 16478237
+        },
+        {
+            "name": "14_0_r0_125/flashplayer14_0r0_125_win.exe",
+            "offset": 16478308,
+            "size": 19168944
+        },
+        {
+            "name": "14_0_r0_125/flashplayer14_0r0_125_win.msi",
+            "offset": 35647323,
+            "size": 20274688
+        },
+        {
+            "name": "14_0_r0_125/flashplayer14_0r0_125_winax.exe",
+            "offset": 55922082,
+            "size": 18583216
+        },
+        {
+            "name": "14_0_r0_125/flashplayer14_0r0_125_winax.msi",
+            "offset": 74505371,
+            "size": 19683328
+        },
+        {
+            "name": "14_0_r0_125/uninstall_flashplayer14_0r0_125_mac.dmg",
+            "offset": 94188772,
+            "size": 241275
+        },
+        {
+            "name": "14_0_r0_125/uninstall_flashplayer14_0r0_125_win.exe",
+            "offset": 94430128,
+            "size": 851120
+        },
+        {
+            "name": "14_0_r0_125_debug/flashplayer14_0r0_125_mac_debug.dmg",
+            "offset": 95281329,
+            "size": 16831522
+        },
+        {
+            "name": "14_0_r0_125_debug/flashplayer14_0r0_125_mac_sa_debug.dmg",
+            "offset": 112112934,
+            "size": 13908256
+        },
+        {
+            "name": "14_0_r0_125_debug/flashplayer14_0r0_125_winax_debug.exe",
+            "offset": 126021276,
+            "size": 19030704
+        },
+        {
+            "name": "14_0_r0_125_debug/flashplayer14_0r0_125_win_debug.exe",
+            "offset": 145052065,
+            "size": 18984624
+        },
+        {
+            "name": "14_0_r0_125_debug/flashplayer14_0r0_125_win_sa_debug.exe",
+            "offset": 164036772,
+            "size": 11954864
+        }
+    ],
+    "modified": "Fri, 13 Jun 2014 11:46:11 GMT",
+    "size": 175992880,
+    "url": "http://web.archive.org/web/20190316104203id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_14.0.0.125_archive.zip"
+}

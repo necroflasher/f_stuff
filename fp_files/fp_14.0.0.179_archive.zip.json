@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "name": "fp_14.0.0.179_archive/14_0_r0_179/flashplayer14_0r0_179_win.exe",
+            "offset": 116,
+            "size": 19182768
+        },
+        {
+            "name": "fp_14.0.0.179_archive/14_0_r0_179/flashplayer14_0r0_179_win.msi",
+            "offset": 19047884,
+            "size": 20288000
+        },
+        {
+            "name": "fp_14.0.0.179_archive/14_0_r0_179_debug/flashplayer14_0r0_179_win_debug.exe",
+            "offset": 38408527,
+            "size": 18987184
+        }
+    ],
+    "modified": "Thu, 04 Sep 2014 08:42:51 GMT",
+    "size": 57261272,
+    "url": "http://web.archive.org/web/20180413221710id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_14.0.0.179_archive.zip"
+}

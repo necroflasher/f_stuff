@@ -1,0 +1,62 @@
+{
+    "files": [
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_mac_sa.dmg",
+            "offset": 64,
+            "size": 13727215
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_macpep.dmg",
+            "offset": 13712017,
+            "size": 16546126
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_win_sa.exe",
+            "offset": 30253287,
+            "size": 13009088
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_winax.exe",
+            "offset": 35751625,
+            "size": 18362048
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_winax.msi",
+            "offset": 53691470,
+            "size": 19602432
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228/flashplayer20_0d0_228_winpep.exe",
+            "offset": 72009492,
+            "size": 19452096
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228_debug/flashplayer20_0d0_228_mac_sa_debug.dmg",
+            "offset": 91039840,
+            "size": 14255866
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228_debug/flashplayer20_0d0_228_macpep_debug.dmg",
+            "offset": 105280425,
+            "size": 16971994
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228_debug/flashplayer20_0d0_228_win_sa_debug.exe",
+            "offset": 122247652,
+            "size": 13861568
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228_debug/flashplayer20_0d0_228_winax_debug.exe",
+            "offset": 128044040,
+            "size": 18741952
+        },
+        {
+            "name": "fp_20.0.0.228_archive/20_0_d0_228_debug/flashplayer20_0d0_228_winpep_debug.exe",
+            "offset": 146363694,
+            "size": 19927744
+        }
+    ],
+    "modified": "Thu, 24 Dec 2015 11:58:38 GMT",
+    "size": 165870861,
+    "url": "http://web.archive.org/web/20160413064014id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_20.0.0.228_archive.zip"
+}

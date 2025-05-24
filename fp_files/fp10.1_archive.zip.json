@@ -1,0 +1,102 @@
+{
+    "files": [
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer_10_1r53_64_linux.tar.gz",
+            "offset": 56,
+            "size": 4760657
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer_10_1r53_64_linux_sa.tar.gz",
+            "offset": 4718929,
+            "size": 4071725
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_mac_sa.app.zip",
+            "offset": 8782152,
+            "size": 8234745
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_solaris_sparc.tar.bz2",
+            "offset": 16984875,
+            "size": 5135362
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_solaris_x86.tar.bz2",
+            "offset": 22105035,
+            "size": 4610865
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_ub_mac.dmg",
+            "offset": 26685508,
+            "size": 7798683
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_win.exe",
+            "offset": 34479489,
+            "size": 2568656
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_win_sa.exe",
+            "offset": 36994401,
+            "size": 5203408
+        },
+        {
+            "name": "fp10.1_archive/10_1r53_64/flashplayer10_1r53_64_winax.exe",
+            "offset": 39646964,
+            "size": 2605008
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer_10_1r82_76_linux.tar.gz",
+            "offset": 42198405,
+            "size": 4907270
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer_10_1r82_76_linux_sa.tar.gz",
+            "offset": 47064038,
+            "size": 4216520
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_mac_sa.app.zip",
+            "offset": 51272421,
+            "size": 8426690
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_solaris_sparc.tar.bz2",
+            "offset": 59667208,
+            "size": 5135362
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_solaris_x86.tar.bz2",
+            "offset": 64787368,
+            "size": 4610865
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_ub_mac.dmg",
+            "offset": 69367841,
+            "size": 7958341
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_win.exe",
+            "offset": 77321565,
+            "size": 2788816
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_win_sa.exe",
+            "offset": 80056244,
+            "size": 5560784
+        },
+        {
+            "name": "fp10.1_archive/10_1r82_76/flashplayer10_1r82_76_winax.exe",
+            "offset": 82940462,
+            "size": 2826192
+        },
+        {
+            "name": "fp10.1_archive/readme.txt",
+            "offset": 85712341,
+            "size": 3279
+        }
+    ],
+    "modified": "Fri, 30 Jul 2010 21:39:29 GMT",
+    "size": 85715814,
+    "url": "http://web.archive.org/web/20130211063226id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp10.1_archive.zip"
+}

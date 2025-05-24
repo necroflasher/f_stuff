@@ -1,0 +1,112 @@
+{
+    "files": [
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_mac.dmg",
+            "offset": 58,
+            "size": 17676999
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_mac_pkg.dmg",
+            "offset": 17672044,
+            "size": 17290115
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_mac_sa.dmg",
+            "offset": 34905354,
+            "size": 14857246
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_macpep.dmg",
+            "offset": 49746834,
+            "size": 17469826
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_macpep_pkg.dmg",
+            "offset": 67211619,
+            "size": 17081141
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_win.exe",
+            "offset": 84236172,
+            "size": 19904704
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_win.msi",
+            "offset": 103716764,
+            "size": 21092352
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_win_sa.exe",
+            "offset": 123559202,
+            "size": 14695104
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_winax.exe",
+            "offset": 129635027,
+            "size": 19384512
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_winax.msi",
+            "offset": 148595123,
+            "size": 20632576
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_winpep.exe",
+            "offset": 167939100,
+            "size": 20345024
+        },
+        {
+            "name": "21_0_r0_197/flashplayer21_0r0_197_winpep.msi",
+            "offset": 187860352,
+            "size": 21532672
+        },
+        {
+            "name": "21_0_r0_197/uninstall_flashplayer21_0r0_197_mac.dmg",
+            "offset": 208140728,
+            "size": 276687
+        },
+        {
+            "name": "21_0_r0_197/uninstall_flashplayer21_0r0_197_win.exe",
+            "offset": 208412769,
+            "size": 1165504
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_mac_debug.dmg",
+            "offset": 209148658,
+            "size": 17767942
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_mac_sa_debug.dmg",
+            "offset": 226911639,
+            "size": 15386142
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_macpep_debug.dmg",
+            "offset": 242281536,
+            "size": 17888755
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_win_debug.exe",
+            "offset": 260165299,
+            "size": 19716800
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_win_sa_debug.exe",
+            "offset": 279457941,
+            "size": 15540928
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_winax_debug.exe",
+            "offset": 285824519,
+            "size": 19762368
+        },
+        {
+            "name": "21_0_r0_197_debug/flashplayer21_0r0_197_winpep_debug.exe",
+            "offset": 305162575,
+            "size": 20804288
+        }
+    ],
+    "modified": "Thu, 07 Apr 2016 05:34:22 GMT",
+    "size": 325545649,
+    "url": "http://web.archive.org/web/20171028141433id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_21.0.0.197_archive.zip"
+}

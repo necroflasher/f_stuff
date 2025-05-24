@@ -1,0 +1,52 @@
+{
+    "files": [
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/flashplayer11_7r700_224_win.exe",
+            "offset": 122,
+            "size": 17617288
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/flashplayer11_7r700_224_win.msi",
+            "offset": 17488898,
+            "size": 18712576
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/flashplayer11_7r700_224_winax.exe",
+            "offset": 35271991,
+            "size": 17018248
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/flashplayer11_7r700_224_winax.msi",
+            "offset": 52161428,
+            "size": 18108928
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/flashplayer11_7r700_224_win_sa.exe",
+            "offset": 69341734,
+            "size": 10198920
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224/uninstall_flashplayer11_7r700_224_win.exe",
+            "offset": 73852501,
+            "size": 814472
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224_debug/flashplayer11_7r700_224_winax_debug.exe",
+            "offset": 74531206,
+            "size": 17462152
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224_debug/flashplayer11_7r700_224_win_debug.exe",
+            "offset": 91864693,
+            "size": 18059144
+        },
+        {
+            "name": "fp_11.7.700.224_archive/11_7_r700_224_debug/flashplayer11_7r700_224_win_sa_debug.exe",
+            "offset": 109795359,
+            "size": 11036552
+        }
+    ],
+    "modified": "Fri, 07 Jun 2013 09:32:45 GMT",
+    "size": 114585297,
+    "url": "http://web.archive.org/web/20171124141622id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.7.700.224_archive.zip"
+}

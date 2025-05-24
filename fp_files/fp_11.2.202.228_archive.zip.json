@@ -1,0 +1,162 @@
+{
+    "files": [
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_223_32bit/flash_player_11_2r202_228_solaris_x86.tar.bz2",
+            "offset": 73,
+            "size": 6212851
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_223_32bit/flash_player11_2r202_228_solaris_sparc.tar.bz2",
+            "offset": 6153806,
+            "size": 5820070
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_linux.i386.tar.gz",
+            "offset": 11953035,
+            "size": 6917230
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_linux_sa.i386.tar.gz",
+            "offset": 18769231,
+            "size": 5979120
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_mac.dmg",
+            "offset": 24731070,
+            "size": 11208981
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_mac_sa.app.zip",
+            "offset": 35935376,
+            "size": 14146648
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_win_32bit.exe",
+            "offset": 50082135,
+            "size": 4139168
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_win_32bit.msi",
+            "offset": 54130506,
+            "size": 5168640
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_win_sa_32bit.exe",
+            "offset": 58410347,
+            "size": 8090272
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_winax_32bit.exe",
+            "offset": 62310348,
+            "size": 4125344
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/flashplayer11_2r202_228_winax_32bit.msi",
+            "offset": 66345093,
+            "size": 5153792
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/uninstall_flashplayer11_2r202_228_mac.dmg",
+            "offset": 70610442,
+            "size": 304134
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit/uninstall_flashplayer11_2r202_228_win_32bit.exe",
+            "offset": 70909811,
+            "size": 353440
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_linux_debug.i386.tar.gz",
+            "offset": 71171973,
+            "size": 7394565
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_linux_sa_debug.i386.tar.gz",
+            "offset": 78448404,
+            "size": 6451176
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_mac_debug.dmg",
+            "offset": 84882402,
+            "size": 11807490
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_mac_sa_debug.app.zip",
+            "offset": 96685222,
+            "size": 15113750
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_win_debug_32bit.exe",
+            "offset": 111799095,
+            "size": 4365984
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_win_sa_debug_32bit.exe",
+            "offset": 116074688,
+            "size": 9430688
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_32bit_debug/flashplayer11_2r202_228_winax_debug_32bit.exe",
+            "offset": 120397233,
+            "size": 4355232
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_linux.x86_64.tar.gz",
+            "offset": 124662145,
+            "size": 7224876
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_mac.dmg",
+            "offset": 131758538,
+            "size": 11208981
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_solaris_sparc.tar.bz2",
+            "offset": 142962844,
+            "size": 5820070
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_solaris_x86.tar.bz2",
+            "offset": 148761999,
+            "size": 6212851
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_win_64bit.exe",
+            "offset": 154915730,
+            "size": 8738464
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_win_64bit.msi",
+            "offset": 163550773,
+            "size": 9902080
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_winax_64bit.exe",
+            "offset": 172492878,
+            "size": 8767136
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/flashplayer11_2r202_228_winax_64bit.msi",
+            "offset": 181156495,
+            "size": 9931264
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/uninstall_flashplayer11_2r202_228_mac.dmg",
+            "offset": 190128098,
+            "size": 304134
+        },
+        {
+            "name": "fp_11.2.202.228_archive/11_2r202_228_64bit/uninstall_flashplayer11_2r202_228_win_64bit.exe",
+            "offset": 190427467,
+            "size": 630944
+        },
+        {
+            "name": "fp_11.2.202.228_archive/readme.txt",
+            "offset": 190952440,
+            "size": 5419
+        }
+    ],
+    "modified": "Wed, 22 Aug 2012 20:39:45 GMT",
+    "size": 190958421,
+    "url": "http://web.archive.org/web/20150321031436id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp_11.2.202.228_archive.zip"
+}

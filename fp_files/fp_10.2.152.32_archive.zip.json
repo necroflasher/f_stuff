@@ -1,0 +1,62 @@
+{
+    "files": [
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32/flashplayer10_2r152_32_win.exe",
+            "offset": 65,
+            "size": 2832544
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32/flashplayer10_2r152_32_win_sa.exe",
+            "offset": 2777665,
+            "size": 5640352
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32/flashplayer10_2r152_32_winax.exe",
+            "offset": 5716676,
+            "size": 2871968
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32/flashplayer10_2r152_33_mac_intel.dmg",
+            "offset": 8533720,
+            "size": 5811452
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32/flashplayer10_2r152_33_mac_sa.app.zip",
+            "offset": 14340709,
+            "size": 5062139
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32_debug/flashplayer10_2r152_32_win_debug.exe",
+            "offset": 19376887,
+            "size": 3100320
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32_debug/flashplayer10_2r152_32_win_sa_debug.exe",
+            "offset": 22422178,
+            "size": 6669984
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32_debug/flashplayer10_2r152_32_winax_debug.exe",
+            "offset": 25687867,
+            "size": 3141280
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32_debug/flashplayer10_2r152_33_mac_intel_debug.dmg",
+            "offset": 28774100,
+            "size": 6196683
+        },
+        {
+            "name": "fp_10.2.152.32_archive/10_2r152_32_debug/flashplayer10_2r152_33_mac_sa_debug.app.zip",
+            "offset": 34966362,
+            "size": 5400732
+        },
+        {
+            "name": "fp_10.2.152.32_archive/readme.txt",
+            "offset": 40339778,
+            "size": 3260
+        }
+    ],
+    "modified": "Tue, 19 Apr 2011 20:27:54 GMT",
+    "size": 40342584,
+    "url": "http://web.archive.org/web/20151018080052id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp_10.2.152.32_archive.zip"
+}

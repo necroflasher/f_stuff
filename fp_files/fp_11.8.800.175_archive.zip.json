@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "name": "fp_11.8.800.175_archive/11_8_r800_175/flashplayer11_8r800_175_winax.exe",
+            "offset": 122,
+            "size": 17154952
+        },
+        {
+            "name": "fp_11.8.800.175_archive/11_8_r800_175/flashplayer11_8r800_175_winax.msi",
+            "offset": 17026457,
+            "size": 18246656
+        },
+        {
+            "name": "fp_11.8.800.175_archive/11_8_r800_175/uninstall_flashplayer11_8r800_175_win.exe",
+            "offset": 34344454,
+            "size": 816008
+        },
+        {
+            "name": "fp_11.8.800.175_archive/11_8_r800_175_debug/flashplayer11_8r800_175_winax_debug.exe",
+            "offset": 35024649,
+            "size": 17594760
+        }
+    ],
+    "modified": "Sun, 22 Sep 2013 02:49:28 GMT",
+    "size": 52491794,
+    "url": "http://web.archive.org/web/20190316104231id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.8.800.175_archive.zip"
+}

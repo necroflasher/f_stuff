@@ -1,0 +1,117 @@
+{
+    "files": [
+        {
+            "name": "fp8_archive/r22/flashplayer8r22_mac.dmg",
+            "offset": 46,
+            "size": 1339886
+        },
+        {
+            "name": "fp8_archive/r22/flashplayer8r22_win.exe",
+            "offset": 1332602,
+            "size": 948936
+        },
+        {
+            "name": "fp8_archive/r22/flashplayer8r22_winax.exe",
+            "offset": 2266121,
+            "size": 819912
+        },
+        {
+            "name": "fp8_archive/r24/flashplayer8r24_mac.dmg",
+            "offset": 3052663,
+            "size": 1390705
+        },
+        {
+            "name": "fp8_archive/r24/flashplayer8r24_win.exe",
+            "offset": 4428476,
+            "size": 953008
+        },
+        {
+            "name": "fp8_archive/r24/flashplayer8r24_winax.exe",
+            "offset": 5365425,
+            "size": 823472
+        },
+        {
+            "name": "fp8_archive/r33/flashplayer8r33_mac.dmg",
+            "offset": 6155734,
+            "size": 1350907
+        },
+        {
+            "name": "fp8_archive/r33/flashplayer8r33_win.exe",
+            "offset": 7493515,
+            "size": 950392
+        },
+        {
+            "name": "fp8_archive/r33/flashplayer8r33_winax.exe",
+            "offset": 8428213,
+            "size": 824440
+        },
+        {
+            "name": "fp8_archive/r34/flashplayer8r34_mac.dmg",
+            "offset": 9219782,
+            "size": 1351402
+        },
+        {
+            "name": "fp8_archive/r34/flashplayer8r34_win.exe",
+            "offset": 10557593,
+            "size": 950392
+        },
+        {
+            "name": "fp8_archive/r34/flashplayer8r34_winax.exe",
+            "offset": 11492352,
+            "size": 824952
+        },
+        {
+            "name": "fp8_archive/r35/flashplayer8r35_mac.dmg",
+            "offset": 12284210,
+            "size": 1481242
+        },
+        {
+            "name": "fp8_archive/r35/flashplayer8r35_win.exe",
+            "offset": 13751915,
+            "size": 943104
+        },
+        {
+            "name": "fp8_archive/r35/flashplayer8r35_winax.exe",
+            "offset": 14682106,
+            "size": 819200
+        },
+        {
+            "name": "fp8_archive/r39/flashplayer8r39_mac.dmg",
+            "offset": 15469990,
+            "size": 1490090
+        },
+        {
+            "name": "fp8_archive/r39/flashplayer8r39_win.exe",
+            "offset": 16946806,
+            "size": 956776
+        },
+        {
+            "name": "fp8_archive/r39/flashplayer8r39_winax.exe",
+            "offset": 17887872,
+            "size": 829800
+        },
+        {
+            "name": "fp8_archive/r42/flashplayer8r42_mac.dmg",
+            "offset": 18684472,
+            "size": 1491692
+        },
+        {
+            "name": "fp8_archive/r42/flashplayer8r42_win.exe",
+            "offset": 20163063,
+            "size": 951808
+        },
+        {
+            "name": "fp8_archive/r42/flashplayer8r42_winax.exe",
+            "offset": 21101231,
+            "size": 831336
+        },
+        {
+            "name": "fp8_archive/readme.txt",
+            "offset": 21899514,
+            "size": 3243
+        }
+    ],
+    "modified": "Mon, 07 Apr 2008 20:38:44 GMT",
+    "size": 21903026,
+    "url": "http://web.archive.org/web/20130220014331id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp8_archive.zip"
+}

@@ -1,0 +1,82 @@
+{
+    "files": [
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_mac.dmg",
+            "offset": 68,
+            "size": 11864166
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_mac_sa.app.zip",
+            "offset": 11859721,
+            "size": 14930869
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_win.exe",
+            "offset": 26790696,
+            "size": 10220472
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_win.msi",
+            "offset": 36914942,
+            "size": 11292672
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_win_sa.exe",
+            "offset": 47302374,
+            "size": 8874424
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_winax.exe",
+            "offset": 51497908,
+            "size": 9575864
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/flashplayer11_4r402_287_winax.msi",
+            "offset": 60977875,
+            "size": 10642944
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/uninstall_flashplayer11_4r402_287_mac.dmg",
+            "offset": 70717321,
+            "size": 229971
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287/uninstall_flashplayer11_4r402_287_win.exe",
+            "offset": 70942691,
+            "size": 692664
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287_debug/flashplayer11_4r402_287_mac_debug.dmg",
+            "offset": 71536817,
+            "size": 12469482
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287_debug/flashplayer11_4r402_287_mac_sa_debug.app.zip",
+            "offset": 84001862,
+            "size": 15956832
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287_debug/flashplayer11_4r402_287_win_debug.exe",
+            "offset": 99958812,
+            "size": 10864568
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287_debug/flashplayer11_4r402_287_win_sa_debug_32bit.exe",
+            "offset": 110727814,
+            "size": 10330552
+        },
+        {
+            "name": "fp_11.4.402.287_archive/11_4_r402_287_debug/flashplayer11_4r402_287_winax_debug.exe",
+            "offset": 115383782,
+            "size": 10228664
+        },
+        {
+            "name": "fp_11.4.402.287_archive/readme.txt",
+            "offset": 125516979,
+            "size": 3712
+        }
+    ],
+    "modified": "Sat, 06 Oct 2012 00:21:21 GMT",
+    "size": 125520345,
+    "url": "http://web.archive.org/web/20171124074944id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.4.402.287_archive.zip"
+}

@@ -1,0 +1,32 @@
+{
+    "files": [
+        {
+            "name": "fp_11.4.r402.265_archive/11_4_r402_265/flashplayer11_4r402_265_mac.dmg",
+            "offset": 124,
+            "size": 11859033
+        },
+        {
+            "name": "fp_11.4.r402.265_archive/11_4_r402_265/uninsstall_flashplayer11_4r402_265_mac.dmg",
+            "offset": 11853556,
+            "size": 229949
+        },
+        {
+            "name": "fp_11.4.r402.265_archive/11_4_r402_265_debug/flashplayer11_4r402_265_mac_debug.dmg",
+            "offset": 12078889,
+            "size": 12464384
+        },
+        {
+            "name": "fp_11.4.r402.265_archive/11_4_r402_265_debug/flashplayer11_4r402_265_mac_sa_debug.app.zip",
+            "offset": 24537538,
+            "size": 15948913
+        },
+        {
+            "name": "fp_11.4.r402.265_archive/readme.txt",
+            "offset": 40416986,
+            "size": 2989
+        }
+    ],
+    "modified": "Tue, 18 Sep 2012 07:20:21 GMT",
+    "size": 40419386,
+    "url": "http://web.archive.org/web/20171124130658id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.4.402.265_archive.zip"
+}

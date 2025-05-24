@@ -1,0 +1,112 @@
+{
+    "files": [
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_mac.dmg",
+            "offset": 58,
+            "size": 18861649
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_mac_pkg.dmg",
+            "offset": 18854867,
+            "size": 18333586
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_mac_sa.dmg",
+            "offset": 37056246,
+            "size": 16673879
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_macpep.dmg",
+            "offset": 53715265,
+            "size": 18593921
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_macpep_pkg.dmg",
+            "offset": 72301967,
+            "size": 18057940
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_win.exe",
+            "offset": 90232854,
+            "size": 20143296
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_win.msi",
+            "offset": 109940264,
+            "size": 21317120
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_win_sa.exe",
+            "offset": 130006469,
+            "size": 14864576
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_winax.exe",
+            "offset": 136150838,
+            "size": 19610304
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_winax.msi",
+            "offset": 155324883,
+            "size": 20845056
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_winpep.exe",
+            "offset": 174880262,
+            "size": 20448960
+        },
+        {
+            "name": "23_0_r0_162/flashplayer23_0r0_162_winpep.msi",
+            "offset": 194893064,
+            "size": 21621760
+        },
+        {
+            "name": "23_0_r0_162/uninstall_flashplayer23_0r0_162_mac.dmg",
+            "offset": 215262539,
+            "size": 425135
+        },
+        {
+            "name": "23_0_r0_162/uninstall_flashplayer23_0r0_162_win.exe",
+            "offset": 215679225,
+            "size": 1224896
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_mac_debug.dmg",
+            "offset": 216462746,
+            "size": 19098676
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_mac_sa_debug.dmg",
+            "offset": 235554739,
+            "size": 17222432
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_macpep_debug.dmg",
+            "offset": 252762520,
+            "size": 18899565
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_win_debug.exe",
+            "offset": 271655248,
+            "size": 19948736
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_win_sa_debug.exe",
+            "offset": 291167986,
+            "size": 15711424
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_winax_debug.exe",
+            "offset": 297610069,
+            "size": 19996864
+        },
+        {
+            "name": "23_0_r0_162_debug/flashplayer23_0r0_162_winpep_debug.exe",
+            "offset": 317170929,
+            "size": 20946112
+        }
+    ],
+    "modified": "Tue, 11 Oct 2016 04:40:25 GMT",
+    "size": 337683604,
+    "url": "http://web.archive.org/web/20190316103446id_/https://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_23.0.0.162_archive.zip"
+}

@@ -1,0 +1,27 @@
+{
+    "files": [
+        {
+            "name": "fp_11.7.700.203_archive/11_7_r700_203/flashplayer11_7r700_203_mac.dmg",
+            "offset": 122,
+            "size": 18005202
+        },
+        {
+            "name": "fp_11.7.700.203_archive/11_7_r700_203/uninstall_flashplayer11_7r700_203_mac.dmg",
+            "offset": 17998930,
+            "size": 233281
+        },
+        {
+            "name": "fp_11.7.700.203_archive/11_7_r700_203_debug/flashplayer11_7r700_203_mac_debug.dmg",
+            "offset": 18227627,
+            "size": 18491287
+        },
+        {
+            "name": "fp_11.7.700.203_archive/11_7_r700_203_debug/flashplayer11_7r700_203_mac_sa_debug.zip",
+            "offset": 36712540,
+            "size": 16547135
+        }
+    ],
+    "modified": "Fri, 17 May 2013 07:57:34 GMT",
+    "size": 53188697,
+    "url": "http://web.archive.org/web/20171124065816id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.7.700.203_archive.zip"
+}

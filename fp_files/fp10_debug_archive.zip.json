@@ -1,0 +1,232 @@
+{
+    "files": [
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer_10_1r53_64_linux_debug.tar.gz",
+            "offset": 60,
+            "size": 5130137
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer_10_1r53_64_linux_sa_debug.tar.gz",
+            "offset": 5073960,
+            "size": 4413473
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer10_1r53_64_mac_sa_debug.app.zip",
+            "offset": 9478993,
+            "size": 8853868
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer10_1r53_64_ub_mac_debug.dmg",
+            "offset": 18298076,
+            "size": 6809587
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer10_1r53_64_win_debug.exe",
+            "offset": 25103242,
+            "size": 2824144
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer10_1r53_64_win_sa_debug.exe",
+            "offset": 27873551,
+            "size": 6190544
+        },
+        {
+            "name": "fp10_debug_archive/10_1r53_64/flashplayer10_1r53_64_winax_debug.exe",
+            "offset": 30841292,
+            "size": 2861008
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer_10r12_36_linux_debug.tar.gz",
+            "offset": 33648755,
+            "size": 4319582
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer_10r12_36_linux_sa_debug.tar.gz",
+            "offset": 37933474,
+            "size": 4046513
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer10r12_36_mac_sa_debug.app.zip",
+            "offset": 41974276,
+            "size": 6120356
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer10r12_36_ub_mac_debug.dmg.zip",
+            "offset": 48078254,
+            "size": 6243056
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer10r12_36_win_debug.exe",
+            "offset": 54323305,
+            "size": 2067696
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer10r12_36_win_sa_debug.exe",
+            "offset": 56357723,
+            "size": 5116776
+        },
+        {
+            "name": "fp10_debug_archive/10r12_36/flashplayer10r12_36_winax_debug.exe",
+            "offset": 58853871,
+            "size": 2103696
+        },
+        {
+            "name": "fp10_debug_archive/10r15_3/flashplayer_10r15_3_linux_debug.tar.gz",
+            "offset": 60924267,
+            "size": 4320536
+        },
+        {
+            "name": "fp10_debug_archive/10r15_3/flashplayer_10r15_3_linux_sa_debug.tar.gz",
+            "offset": 65209737,
+            "size": 4049393
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer_10r22_87_linux_debug.tar.gz",
+            "offset": 69252964,
+            "size": 4351574
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer_10r22_87_linux_sa_debug.tar.gz",
+            "offset": 73568979,
+            "size": 4082903
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer10r22_87_mac_sa_debug.app.zip",
+            "offset": 77645863,
+            "size": 6246690
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer10r22_87_ub_mac_debug.dmg.zip",
+            "offset": 83877932,
+            "size": 6323167
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer10r22_87_win_debug.exe",
+            "offset": 90203013,
+            "size": 2095400
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer10r22_87_win_sa_debug.exe",
+            "offset": 92265103,
+            "size": 5192064
+        },
+        {
+            "name": "fp10_debug_archive/10r22_87/flashplayer10r22_87_winax_debug.exe",
+            "offset": 94789692,
+            "size": 2130088
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer_10r32_18_linux_debug.tar.gz",
+            "offset": 96886546,
+            "size": 4399984
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer_10r32_18_linux_sa_debug.tar.gz",
+            "offset": 101252134,
+            "size": 4133324
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer10r32_18_mac_sa_debug.app.zip",
+            "offset": 105379647,
+            "size": 6368959
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer10r32_18_ub_mac_debug.dmg.zip",
+            "offset": 111733735,
+            "size": 6457166
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer10r32_18_win_debug.exe",
+            "offset": 118192969,
+            "size": 2142976
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer10r32_18_win_sa_debug.exe",
+            "offset": 120302639,
+            "size": 5306880
+        },
+        {
+            "name": "fp10_debug_archive/10r32_18/flashplayer10r32_18_winax_debug.exe",
+            "offset": 122881662,
+            "size": 2179760
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer_10r42_34_linux_debug.tar.gz",
+            "offset": 125028211,
+            "size": 4404738
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer_10r42_34_linux_sa_debug.tar.gz",
+            "offset": 129398936,
+            "size": 4135693
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer10r42_34_mac_sa_debug.app.zip",
+            "offset": 133529081,
+            "size": 6373585
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer10r42_34_ub_mac_debug.dmg.zip",
+            "offset": 139887908,
+            "size": 6480452
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer10r42_34_win_debug.exe",
+            "offset": 146349513,
+            "size": 2141544
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer10r42_34_win_sa_debug.exe",
+            "offset": 148457751,
+            "size": 5309440
+        },
+        {
+            "name": "fp10_debug_archive/10r42_34/flashplayer10r42_34_winax_debug.exe",
+            "offset": 151037660,
+            "size": 2174056
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer_10r45_2_linux_debug.tar.gz",
+            "offset": 153178477,
+            "size": 4404726
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer_10r45_2_linux_sa_debug.tar.gz",
+            "offset": 157548599,
+            "size": 4139204
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer10r45_2_mac_sa_debug.app.zip",
+            "offset": 161682133,
+            "size": 6373680
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer10r45_2_ub_mac_debug.dmg",
+            "offset": 168040737,
+            "size": 6484704
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer10r45_2_win_debug.exe",
+            "offset": 174503109,
+            "size": 2141760
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer10r45_2_win_sa_debug.exe",
+            "offset": 176611572,
+            "size": 5309440
+        },
+        {
+            "name": "fp10_debug_archive/10r45_2/flashplayer10r45_2_winax_debug.exe",
+            "offset": 179192240,
+            "size": 2174080
+        },
+        {
+            "name": "fp10_debug_archive/readme.txt",
+            "offset": 181333028,
+            "size": 5164
+        }
+    ],
+    "modified": "Mon, 14 Jun 2010 20:01:55 GMT",
+    "size": 181340026,
+    "url": "http://web.archive.org/web/20150616171455id_/http://fpdownload.macromedia.com/get/flashplayer/installers/archive/fp10_debug_archive.zip"
+}

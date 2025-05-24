@@ -1,0 +1,67 @@
+{
+    "files": [
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/flashplayer12_0r0_77_mac.dmg",
+            "offset": 113,
+            "size": 18416511
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/flashplayer12_0r0_77_win.exe",
+            "offset": 18412228,
+            "size": 17879432
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/flashplayer12_0r0_77_win.msi",
+            "offset": 36157458,
+            "size": 18971136
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/flashplayer12_0r0_77_winax.exe",
+            "offset": 54197871,
+            "size": 17293704
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/flashplayer12_0r0_77_winax.msi",
+            "offset": 71357608,
+            "size": 18381312
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/uninstall_flashplayer12_0r0_77_mac.dmg",
+            "offset": 88809749,
+            "size": 235545
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77/uninstall_flashplayer12_0r0_77_win.exe",
+            "offset": 89040677,
+            "size": 841096
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77_debug/flashplayer12_0r0_77_mac_debug.dmg",
+            "offset": 89740696,
+            "size": 18858287
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77_debug/flashplayer12_0r0_77_mac_sa_debug.dmg",
+            "offset": 108594425,
+            "size": 16055586
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77_debug/flashplayer12_0r0_77_winax_debug.exe",
+            "offset": 124636830,
+            "size": 17732488
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77_debug/flashplayer12_0r0_77_win_debug.exe",
+            "offset": 142235480,
+            "size": 18326408
+        },
+        {
+            "name": "fp_12.0.0.77_archive/12_0_r0_77_debug/flashplayer12_0r0_77_win_sa_debug.exe",
+            "offset": 160428292,
+            "size": 11202440
+        }
+    ],
+    "modified": "Wed, 05 Mar 2014 06:04:52 GMT",
+    "size": 165287121,
+    "url": "http://web.archive.org/web/20190316101857id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_12.0.0.77_archive.zip"
+}

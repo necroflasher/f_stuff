@@ -1,0 +1,67 @@
+{
+    "files": [
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/flashplayer_11_7r700_279_mac_intel.dmg",
+            "offset": 122,
+            "size": 17971354
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/flashplayer_11_7r700_279_mac_sa.dmg",
+            "offset": 17965074,
+            "size": 15181242
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/flashplayer_11_7r700_279_win.exe",
+            "offset": 33127885,
+            "size": 17592200
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/flashplayer_11_7r700_279_winax.exe",
+            "offset": 50589017,
+            "size": 17004424
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/flashplayer_11_7r700_279_win_sa.exe",
+            "offset": 67462365,
+            "size": 10145160
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/uninstall_flashplayer11_7r700_279_mac.dmg",
+            "offset": 72063915,
+            "size": 233253
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279/uninstall_flashplayer11_7r700_279_win.exe",
+            "offset": 72292523,
+            "size": 816520
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279_debug/flashplayer11_7r700_279_mac_debug.dmg",
+            "offset": 72975498,
+            "size": 18458108
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279_debug/flashplayer11_7r700_279_mac_sa_debug.dmg",
+            "offset": 91427130,
+            "size": 15881155
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279_debug/flashplayer11_7r700_279_winax_debug.exe",
+            "offset": 107288661,
+            "size": 17435528
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279_debug/flashplayer11_7r700_279_win_debug.exe",
+            "offset": 124593507,
+            "size": 18035080
+        },
+        {
+            "name": "fp_11.7.700.279_archive/11_7_r700_279_debug/flashplayer11_7r700_279_win_sa_debug.exe",
+            "offset": 142497248,
+            "size": 10983304
+        }
+    ],
+    "modified": "Mon, 21 Apr 2014 06:30:10 GMT",
+    "size": 147389566,
+    "url": "http://web.archive.org/web/20171124162741id_/http://fpdownload.macromedia.com/pub/flashplayer/installers/archive/fp_11.7.700.279_archive.zip"
+}
